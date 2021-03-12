@@ -1,13 +1,9 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## МОИ РАБОТЫ:
+* Демонстрация работы с numpy, pandas, matplotlib: \
+  [ссылка](https://colab.research.google.com/drive/12mFp80p1HBJCpnx8WmbR7s3b2e-Z7HB0?usp=sharing)
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+* Демонстрация работы с SQL: \
+  [ссылка](https://colab.research.google.com/drive/1uUxXZXnZfhlM9fv3a1wnTVbbkNwnlKro?usp=sharing)
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+* Использование средств машинного обучения для анализа данных, поиска паттернов (data mining): \
+  [ссылка](https://colab.research.google.com/drive/1wjmbwB8Qf7kkpUhNpzUgQpijNTs_FToe?usp=sharing)
